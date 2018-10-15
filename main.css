@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#message{
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 20px;
+  height: 5vw;
+  border: 2px solid black;
+  font-size; 2vw;
+}
+#left{
+  display: inline-flex;
+  width: 49.25%;
+  height: 5vw;
+  font-size: 2vw;
+  border: 1px solid red;
+}
+#right{
+  display: inline-flex;
+  width: 49.25%;
+  height: 5vw;
+  font-size: 2vw;
+  border: 1px solid blue;
+}
